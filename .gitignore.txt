@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+uploads/
+*.wav
+*.mp3
+*.m4a
+data/
+datasets/
+outputs/
+results/
+node_modules/
+dist/
+build/
+.venv/
+venv/
