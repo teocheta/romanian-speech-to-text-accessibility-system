@@ -68,7 +68,9 @@ Evaluation was performed using **Word Error Rate (WER)**.
 - Librosa (audio preprocessing)
 - Deep Learning (CNN + BiLSTM + CTC)
 - REST API
-- TypeScript / React-based frontend 
+- React Native (Expo)
+- TypeScript
+
 
 ---
 
